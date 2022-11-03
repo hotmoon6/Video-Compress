@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/HxBots",
   "website": "https://t.me/HxBots",
-  "repository": "https://github.com/oVoIndia/Video-Compress",
+  "repository": "https://github.com/hotmoon6/Video-Compress",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
